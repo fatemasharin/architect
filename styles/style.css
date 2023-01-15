@@ -42,8 +42,7 @@ nav li a{
 .banner h1{
     font-size: 45px;
     font-weight: 600;
-    text-align: center;
-    
+    text-align: center;    
 }
 .banner p{
     font-size: 12px;
@@ -51,8 +50,7 @@ nav li a{
     line-height: 23px;
     color:#727272;
     text-align: center;
-    padding: 15px 0px ;
-    width:53%;
+    padding: 15px 300px ;
     margin: 0 auto;
 }
  .primary-btn{
@@ -307,8 +305,7 @@ nav li a{
 .social-part i{
     font-size: 25px;
     color: #FF900E;
-    padding-right: 20px;
-    
+    padding-right: 20px;    
 }
 form{
     display: flex;
@@ -400,8 +397,8 @@ footer p{
         line-height: 23px;
         color:#727272;
         text-align: center;
-        padding: 15px 15px 0;
-        width: 100%;
+        padding: 10px 15px 0;
+        /* width: 100%; */
     }
      .primary-btn{
         display: block;

@@ -152,20 +152,26 @@ nav li a{
 .year-img img{
     width: 500px;
 }
-.year button{
+.year .primary-btn{
     width: 180px;
     height: 110px;
     position: absolute;
     bottom: -30px;
     right: 375px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
-.year button h2{
+.year .primary-btn h2{
     font-size: 30px;
     font-weight: 600;
+    text-align: center;
 }
-.year button p{
+.year .primary-btn p{
     color: #FFF4E7;
-    padding: 0;   
+    padding: 0;
+    text-align: center;   
 }
 /* ---------------------------------------
 --------------our projects---------- */
@@ -505,18 +511,18 @@ footer p{
 .year-img img{
     width: 100%;
 }
-.year button{
+.year .primary-btn{
     width: 40%;
     height: 8%;
     position: absolute;
     bottom: -100px;
     right: 120px;
 }
-.year button h2{
+.year .primary-btn h2{
     font-size: 30px;
     font-weight: 600;
 }
-.year button p{
+.year .primary-btn p{
     color: #FFF4E7;
     padding: 0;   
 }

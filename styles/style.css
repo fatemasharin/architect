@@ -52,6 +52,7 @@ nav li a{
     text-align: center;
     padding: 15px;
     margin: 0 auto;
+    width: 53%;
 }
  .primary-btn{
     display: block;

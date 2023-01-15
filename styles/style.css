@@ -249,6 +249,8 @@ nav li a{
     filter: grayscale(0%);
     
 }
+/* ------------------------------------------
+------------------contact-us--------------- */
 .contact{
     background-color: #FFF4E7;
 }
@@ -286,7 +288,7 @@ nav li a{
 form{
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 10px;
     padding-top: 20px;
 }
 form input{
@@ -301,6 +303,8 @@ form input[type]{
 form textarea{
     border:1px solid #f6f6f6;
     width: 250px;
+    padding-left: 10px;
+    padding-top: 10px;
 }
 .form-part .primary-btn{
     margin: 10px 0;

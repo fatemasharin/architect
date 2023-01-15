@@ -294,7 +294,7 @@ nav li a{
     margin-top: 90px;
     
 }
-.contact-us ,h3{
+.contact-us h3{
     font-size: 25px;
 }
 .social-part{
@@ -642,7 +642,7 @@ footer p{
     display: flex;
     flex-direction: column;
     gap: 40px;
-    width: 100%;
+    width: 80%;
 }
 .social-part {
    width: 90%;

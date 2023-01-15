@@ -50,13 +50,13 @@ nav li a{
     line-height: 23px;
     color:#727272;
     text-align: center;
-    padding: 15px;
+    padding: 15px 0px 10px;
     margin: 0 auto;
     width: 53%;
 }
  .primary-btn{
     display: block;
-    margin:30px auto;
+    margin:5px auto 20px;
     font-size: 14px;
     font-weight: 500;
     color: #ffffff;

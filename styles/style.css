@@ -50,7 +50,7 @@ nav li a{
     line-height: 23px;
     color:#727272;
     text-align: center;
-    padding: 15px 300px ;
+    padding: 15px;
     margin: 0 auto;
 }
  .primary-btn{
@@ -397,8 +397,8 @@ footer p{
         line-height: 23px;
         color:#727272;
         text-align: center;
-        padding: 10px 15px 0;
-        /* width: 100%; */
+        padding: 10px 0px;
+        width: 95%;
     }
      .primary-btn{
         display: block;

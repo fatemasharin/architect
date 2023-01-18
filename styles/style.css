@@ -66,10 +66,14 @@ nav li a{
     border: none;
     border-radius: 7px;
 }
+.banner-img{
+    width: 90%;
+    margin: auto;
+}
 .banner img{
-    display: block;
-    width:1080px;
-    height: 450px;
+    /* display: block; */
+    width:100%;
+    /* height: 450px; */
     margin: 0 auto ;
     object-fit: cover;
     border-radius: 10px;
@@ -419,12 +423,15 @@ footer p{
         border: none;
         border-radius: 7px;
     }
+    .banner-img{
+        width: 90%;
+    }
     .banner img{
-        display: block;
-        width:90%;
+        /* display: block; */
+        width:100%;
         object-fit: cover;
         object-position: center;
-        height: 450px;
+        /* height: 450px; */
         margin: 0 auto ;
         object-fit: cover;
         border-radius: 10px;
